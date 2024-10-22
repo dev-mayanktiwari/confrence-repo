@@ -5,14 +5,14 @@ export default function Header() {
     <header className="bg-white py-4 px-6 flex items-center justify-between">
       <div className="flex items-center">
         <Image
-          src="/placeholder.svg?height=80&width=80"
+          src="/galgotia-college-logo.png"
           alt="IIT Tirupati Logo"
-          width={80}
-          height={80}
+          width={200}
+          height={56}
           className="mr-2"
         />
         <div className="text-center">
-          <h2 className="text-xl font-bold">TIRUPATI</h2>
+          <h2 className="text-xl font-bold"></h2>
         </div>
       </div>
       <div className="text-center flex-grow">
@@ -26,10 +26,10 @@ export default function Header() {
       </div>
       <div>
         <Image
-          src="/placeholder.svg?height=80&width=80"
+          src="/ncc_logo_2023.png"
           alt="NCC Logo"
-          width={80}
-          height={80}
+          width={214}
+          height={100}
         />
       </div>
     </header>

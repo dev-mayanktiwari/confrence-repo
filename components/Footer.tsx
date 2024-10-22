@@ -9,7 +9,7 @@ export default function Footer() {
           </span>
         </div>
         <div className="text-sm text-center md:text-right">
-          Jointly Organised By IIT Madras & IIT Tirupati
+          Organised by Galgotias Education Institutions
         </div>
       </div>
     </footer>
