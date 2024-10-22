@@ -6,7 +6,7 @@ export default function Header() {
       <div className="flex items-center">
         <Image
           src="/galgotia-college-logo.png"
-          alt="IIT Tirupati Logo"
+          alt="GCET Logo"
           width={200}
           height={56}
           className="mr-2"
@@ -21,7 +21,7 @@ export default function Header() {
           30th National Conference on Communications
         </p>
         <p className="text-sm">
-          28th February - 2nd March 2024, Indian Institute of Technology Madras
+          28th February - 2nd March 2024, Galgotias College of Engineering & Technology
         </p>
       </div>
       <div>

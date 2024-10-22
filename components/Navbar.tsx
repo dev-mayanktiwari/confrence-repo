@@ -6,11 +6,14 @@ import { Menu, X } from "lucide-react";
 
 const navItems = [
   { name: "Home", href: "/" },
-  { name: "About", href: "/about" },
-  { name: "Academics", href: "/academics" },
-  { name: "Admissions", href: "/admissions" },
-  { name: "Research", href: "/research" },
-  { name: "Campus Life", href: "/campus-life" },
+  { name: "Committees", href: "/committees" },
+  { name: "Key Dates", href: "/key" },
+  { name: "Topics", href: "/topics" },
+  { name: "Registration", href: "/registration" },
+  { name: "Paper Submission", href: "/cfp" },
+  { name: "Speaker", href: "/speaker" },
+  { name: "Schedule", href: "/schedule" },
+  { name: "Sponsors", href: "/sponsors" },
 ];
 
 export default function Navbar() {
