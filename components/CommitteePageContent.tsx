@@ -1,6 +1,4 @@
-import { Card, CardContent, CardHeader } from "@/components/ui/card";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import Image from "next/image";
+import { MemberCard } from "./MemberCard";
 interface CommitteeMember {
   name: string;
   role: string;
@@ -16,9 +14,6 @@ interface CommitteeSection {
 interface CommitteeProps {
   sections: CommitteeSection[];
 }
-
-
-
 
 export default function CommitteePageContent({ sections }: CommitteeProps) {
   return (
