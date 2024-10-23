@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Header from "@/components/Header";
+import LatestUpdates from "@/components/UpdatePanel";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 
@@ -19,7 +20,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "NCC 2024 - 30th National Conference on Communications",
   description:
-    "30th National Conference on Communications, jointly organized by Galgotias College of Engineering & Technology, Greater Noida.",
+    "30th National Conference on Communications, jointly organized by IIT Madras & IIT Tirupati",
 };
 
 export default function RootLayout({
@@ -30,11 +31,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable}  flex flex-col min-h-screen`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased flex flex-col min-h-screen`}
       >
         <Header />
         <Navbar />
-        <main className="flex-grow">{children}</main>
+        <div className="flex-grow flex flex-col lg:flex-row">
+          <main className="flex-grow p-4 order-2 lg:order-1">{children}</main>
+        </div>
         <Footer />
       </body>
     </html>
