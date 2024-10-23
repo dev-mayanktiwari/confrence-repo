@@ -1,10 +1,9 @@
-import Content from "@/components/MainPageContent";
+import CFPContent from "@/components/CFPPageContent";
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
-      <h1>Call for Paper Submission</h1>
-      <Content />
+      <CFPContent />
     </div>
   );
 }

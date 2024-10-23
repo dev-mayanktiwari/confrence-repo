@@ -8,25 +8,28 @@ const slides = [
     id: 1,
     src: "/slideshow1.jpeg",
     alt: "Galgotias College of Engineering and Technology",
-    caption: "",
+    caption: "Galgotias College of Engineering and Technology",
   },
   {
     id: 2,
     src: "/slideshow2.jpg",
     alt: "Networking Event",
-    caption: "Honourable chairmain Shri Suneel Galgotia and CEO Mr. Dhruv Galgotia with Honourable Prime Minister of India Shri Narendra Modi",
+    caption:
+      "Honourable chairmain Shri Suneel Galgotia and CEO Mr. Dhruv Galgotia with Honourable Prime Minister of India Shri Narendra Modi",
   },
   {
     id: 3,
     src: "/slideshow3.jpg",
     alt: "Keynote Speaker",
-    caption: "Honourable CEO Mr. Dhruv Galgotia with Late President Shri Pranab Mukherjee",
+    caption:
+      "Honourable CEO Mr. Dhruv Galgotia with Late President Shri Pranab Mukherjee",
   },
   {
     id: 3,
     src: "/slideshow4.jpg",
     alt: "Keynote Speaker",
-    caption: "Honourable Chairman Shri Suneel Galgotia with Honourable Chief Minister of India Shri Yogi Adiyanath",
+    caption:
+      "Honourable Chairman Shri Suneel Galgotia with Honourable Chief Minister of India Shri Yogi Adiyanath",
   },
 ];
 
