@@ -1,5 +1,5 @@
 import Slideshow from "@/components/Slideshow";
-import Content from "@/components/Content";
+import Content from "@/components/MainPageContent";
 
 export default function Home() {
   return (

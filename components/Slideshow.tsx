@@ -7,20 +7,26 @@ const slides = [
   {
     id: 1,
     src: "/slideshow1.jpeg",
-    alt: "Conference Hall",
-    caption: "Join us for NCC 2024 at IIT Madras",
+    alt: "Galgotias College of Engineering and Technology",
+    caption: "",
   },
   {
     id: 2,
-    src: "/slideshow3.jpeg",
+    src: "/slideshow2.jpg",
     alt: "Networking Event",
-    caption: "Network with leading professionals in communications",
+    caption: "Honourable chairmain Shri Suneel Galgotia and CEO Mr. Dhruv Galgotia with Honourable Prime Minister of India Shri Narendra Modi",
   },
   {
     id: 3,
-    src: "/slideshow3.jpeg",
+    src: "/slideshow3.jpg",
     alt: "Keynote Speaker",
-    caption: "Hear from world-renowned speakers in the field",
+    caption: "Honourable CEO Mr. Dhruv Galgotia with Late President Shri Pranab Mukherjee",
+  },
+  {
+    id: 3,
+    src: "/slideshow4.jpg",
+    alt: "Keynote Speaker",
+    caption: "Honourable Chairman Shri Suneel Galgotia with Honourable Chief Minister of India Shri Yogi Adiyanath",
   },
 ];
 
