@@ -25,7 +25,7 @@ const slides = [
       "Honourable CEO Mr. Dhruv Galgotia with Late President Shri Pranab Mukherjee",
   },
   {
-    id: 3,
+    id: 4,
     src: "/slideshow4.jpg",
     alt: "Keynote Speaker",
     caption:

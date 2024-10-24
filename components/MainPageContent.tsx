@@ -21,11 +21,11 @@ export default function Content() {
       </section>
       <section className="mb-8 text-justify">
         <p>
-          Accepted papers will be submitted for inclusion into IEEE Xplore,
-          subject to meeting IEEE Xplore’s scope and quality requirements.
-          Prospective authors are encouraged to submit their original research
-          findings in the following and related areas. More details about the
-          submission process will be available soon.
+          Accepted papers will be submitted for inclusion into UGC Care I and
+          UGC Care II, subject to meeting UGC Care General scope and quality
+          requirements. Prospective authors are encouraged to submit their
+          original research findings in the following and related areas. More
+          details about the submission process will be available soon.
         </p>
       </section>
       <section className="mb-8 text-justify">
@@ -38,17 +38,7 @@ export default function Content() {
           professionals from across the country.
         </p>
       </section>
-      <section className="mb-8 text-justify">
-        <p>
-          Prospective authors should submit original technical papers that have
-          not been published or submitted elsewhere for publication. Submitted
-          papers, in two-column format, should be FOUR to SIX A4-size pages in
-          length, using a font size no smaller than 10 points, and with margins
-          as per IEEE conference format. All submitted papers will undergo
-          double-blind peer review by a technical program committee, ensuring
-          the highest standards of quality and relevance.
-        </p>
-      </section>
+
       <section className="mb-8 text-justify">
         <p>
           Detailed information on technical paper submission, tutorials,

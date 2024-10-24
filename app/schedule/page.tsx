@@ -1,10 +1,9 @@
-import Content from "@/components/MainPageContent";
+import SchedulePageContet from "@/components/SchedulePageContent";
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
-      <h1>Schedule</h1>
-      <Content />
+      <SchedulePageContet />
     </div>
   );
 }

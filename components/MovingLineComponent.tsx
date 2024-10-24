@@ -44,7 +44,7 @@ export default function MovingLine({
 
   const renderMessage = (message: MessageItem, index: number) => {
     const content = (
-      <span key={index} className="px-4">
+      <span key={`message-${index}`} className="px-4">
         {message.link ? (
           <Link
             href={message.link}
@@ -59,10 +59,12 @@ export default function MovingLine({
     );
 
     return index < messages.length - 1 ? (
-      <>
+      <span key={`content-${index}`}>
         {content}
-        <span className="px-4">{separator}</span>
-      </>
+        <span key={`separator-${index}`} className="px-4">
+          {separator}
+        </span>
+      </span>
     ) : (
       content
     );
@@ -70,8 +72,8 @@ export default function MovingLine({
 
   const displayContent = (
     <>
-      {messages.map(renderMessage)}
-      {messages.map(renderMessage)}
+      {messages.map((message, index) => renderMessage(message, index))}
+      {messages.map((message, index) => renderMessage(message, index))}
     </>
   );
 

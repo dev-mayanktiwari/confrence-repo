@@ -3,8 +3,34 @@ import LatestUpdates from "@/components/UpdatePanel";
 import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
-  title: "Committe - NCCC 2025",
-  description: "Check the organising committe for NCCC 2024",
+  title: "Call for Papers - NCCC 2025",
+  description:
+    "Submit your papers to the 1st National Conference on Computer and Communications (NCCC 2025) and explore a wide range of research areas including communications, network theory, and signal processing. Join us at Galgotia College of Engineering and Technology in April 2025.",
+  keywords: [
+    "NCCC 2025",
+    "Call for Papers",
+    "Communications",
+    "Signal Processing",
+    "Network Theory",
+    "Research Conference",
+    "Galgotia College",
+    "Computer and Communications Conference",
+  ],
+  openGraph: {
+    title: "Call for Papers - NCCC 2025",
+    description:
+      "Join NCCC 2025 at Galgotia College and submit your research in communications, network theory, and more. Explore cutting-edge research opportunities.",
+    // url: "https://your-website.com/cfp",
+    type: "article",
+    // images: [
+    //   {
+    //     url: "https://your-website.com/og-cfp-image.jpg",
+    //     width: 1200,
+    //     height: 630,
+    //     alt: "NCCC 2025 Call for Papers",
+    //   },
+    // ],
+  },
 };
 
 export default function HomeLayout({

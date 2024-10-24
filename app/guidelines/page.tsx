@@ -1,7 +1,8 @@
+import GuidelinesPage from "@/components/GuidelinesPageContent";
 import React from "react";
 
 const Guidelines = () => {
-  return <div>Guidelines</div>;
+  return <GuidelinesPage />;
 };
 
 export default Guidelines;

@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Header from "@/components/Header";
-import LatestUpdates from "@/components/UpdatePanel";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 
@@ -18,7 +17,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "NCC 2024 - 30th National Conference on Communications",
+  title: "NCCC 2024 - 30th National Conference on Communications",
   description:
     "30th National Conference on Communications, jointly organized by IIT Madras & IIT Tirupati",
 };

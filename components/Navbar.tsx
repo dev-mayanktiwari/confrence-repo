@@ -13,7 +13,6 @@ const navItems = [
   { name: "Paper Submission", href: "/guidelines" },
   { name: "Speaker", href: "/speaker" },
   { name: "Schedule", href: "/schedule" },
-  { name: "Sponsors", href: "/sponsors" },
 ];
 
 export default function Navbar() {

@@ -1,5 +1,5 @@
 import KeyDatesContent from "@/components/KeyDatesContent";
-import Content from "@/components/MainPageContent";
+
 
 export default function Home() {
   return (

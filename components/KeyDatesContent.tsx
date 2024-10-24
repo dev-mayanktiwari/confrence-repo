@@ -4,17 +4,17 @@ export default function KeyDatesContent() {
   const keyDates = [
     {
       title: "Decision Announcement Date",
-      date: "December 07, 2023",
+      date: "November 07, 2024",
       icon: Calendar,
     },
     {
       title: "Paper Submission Deadline",
-      date: "December 07, 2023",
+      date: "January 20, 2025",
       icon: FileText,
     },
     {
-      title: "Camera Ready Submission & Early Bird Registration",
-      date: "December 07, 2023",
+      title: "Camera Ready Submission",
+      date: "March 10, 2025",
       icon: UserCheck,
     },
   ];

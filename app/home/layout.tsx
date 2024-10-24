@@ -5,8 +5,33 @@ import LatestUpdates from "@/components/UpdatePanel";
 import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
-  title: "Home - NCC 2024",
-  description: "Welcome to the 30th National Conference on Communications",
+  title: "1st National Conference on Computer and Communications - NCCC 2025",
+  description:
+    "Join the 1st National Conference on Computer & Communications (NCCC 2025) for the latest updates on computer science, communications technology, and cutting-edge research. Call for Papers now open.",
+  keywords: [
+    "NCCC 2025",
+    "National Conference on Computer and Communications",
+    "Call for Papers",
+    "Computer Science",
+    "Communications Technology",
+    "Research Conference",
+    "Technology Updates",
+  ],
+  openGraph: {
+    title: "1st National Conference on Computer and Communications - NCCC 2025",
+    description:
+      "Discover groundbreaking research in computer and communications at NCCC 2025. Submit your paper now.",
+    // url: "https://your-website.com",
+    // type: "website",
+    // images: [
+    //   {
+    //     url: "https://your-website.com/og-image.jpg",
+    //     width: 1200,
+    //     height: 630,
+    //     alt: "NCCC 2025 Conference Banner",
+    //   },
+    // ],
+  },
 };
 
 export default function HomeLayout({
@@ -19,10 +44,9 @@ export default function HomeLayout({
       <Slideshow />
       <MovingLine
         messages={[
-          { text: "Welcome to NCC 2024" },
-          { text: "30th National Conference on Communications" },
-          { text: "Call for Papers", link: "/call-for-papers" },
-          { text: "IIT Madras" },
+          { text: "Welcome to NCCC 2025" },
+          { text: "1st National Conference on Computer & Communications" },
+          { text: "Call for Papers", link: "/cfp" },
         ]}
         speed={40}
         backgroundColor="bg-blue-900"

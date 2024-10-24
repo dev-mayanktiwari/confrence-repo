@@ -12,8 +12,7 @@ const committeeData = [
         name: "Dr. Dhruv Galgotia",
         role: "CEO",
         affiliation: "Galgotias Educational Institutions",
-        imageUrl:
-          "/committe/dhruv-galgotia.jpg",
+        imageUrl: "/committe/dhruv-galgotia.jpg",
       },
       // Add more members as needed
     ],
@@ -74,10 +73,16 @@ const committeeData = [
     title: "Conference Co-Convener",
     members: [
       {
-        name: "Dr. Sambit Satpathy",
+        name: "Prof.(Dr.) Yash Veer Singh",
+        role: "Deputy HOD CSE",
+        affiliation: "Galgotia College of Engineering and Technology",
+        imageUrl: "/committe/yash-veer-singh.jpg",
+      },
+      {
+        name: "Dr. M. Ganesh",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/sambit-satpathy.jpg",
+        imageUrl: "/committe/m-ganesh.jpg",
       },
     ],
   },
@@ -98,16 +103,16 @@ const committeeData = [
         imageUrl: "/committe/m-ganesh.jpg",
       },
       {
-        name: "Mrs. Shikha Singh",
+        name: "Dr. Vandana Rani Verma",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/shikha-singh.jpg",
+        imageUrl: "/committe/vandana-rani-verma.jpg",
       },
       {
-        name: "Mrs. Priyanka Tyagi",
+        name: "Dr. Krishan Kumar Saraswat",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/priyanka-tyagi.jpg",
+        imageUrl: "/committe/krishna-kumar-saraswat.jpg",
       },
     ],
   },

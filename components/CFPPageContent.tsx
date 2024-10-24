@@ -18,13 +18,15 @@ export default function CFPContent() {
 
       <div className="space-y-8 text-gray-700 leading-relaxed">
         <p className="text-lg">
-          The 30th National Conference on Communications (NCC 2024) will be held
-          at Indian Institute of Technology Tirupati, India, during February 28
-          - March 2, 2024. NCC is an annual conference organized under the joint
-          sponsorship of the IEEE Communications Society India Chapter and the
-          IEEE India Council. The conference aims to bring together researchers
-          and practitioners from academia and industry to discuss the
-          state-of-the-art in communications technology.
+          The 30th National Conference on Communications (NC3 2024) will be held
+          at Galgotia College of Engineering and Technology, Greater Noida
+          during April 28 - April 29, 2025.
+          {/* NC3 is an annual conference organized
+          under the joint sponsorship of the IEEE Communications Society India
+          Chapter and the IEEE India Council.  */}
+          The conference aims to bring together researchers and practitioners
+          from academia and industry to discuss the state-of-the-art in
+          communications technology.
         </p>
 
         <h2 className="text-2xl font-semibold text-blue-900 mt-12 mb-6">
@@ -32,7 +34,7 @@ export default function CFPContent() {
         </h2>
 
         <p className="mb-4">
-          NCC 2024 solicits original technical papers in the following areas of
+          NC3 2025 solicits original technical papers in the following areas of
           interest (but not limited to):
         </p>
 
@@ -52,15 +54,15 @@ export default function CFPContent() {
           />
         </div>
 
-        <h2 className="text-2xl font-semibold text-blue-900 mt-12 mb-6">
+        {/* <h2 className="text-2xl font-semibold text-blue-900 mt-12 mb-6">
           Paper Submission Guidelines
-        </h2>
-
+        </h2> */}
+        {/* 
         <ul className="list-disc pl-6 space-y-3">
           <li>
             Prospective authors are invited to submit original technical papers
-            of up to 6 pages for review, following the standard IEEE two-column
-            conference format.
+            of up to 6 pages for review, following the standard conference
+            format.
           </li>
           <li>
             All submissions should be written in English and submitted as a PDF
@@ -72,19 +74,19 @@ export default function CFPContent() {
           </li>
           <li>
             Accepted and presented papers will be published in the conference
-            proceedings and submitted to IEEE Xplore.
+            proceedings and submitted to UGC Care I and UGC Care II.
           </li>
           <li>
-            Papers must be submitted via EDAS. The submission link will be
+            Papers must be submitted via email. The submission link will be
             provided soon.
           </li>
-        </ul>
+        </ul> */}
 
-        <h2 className="text-2xl font-semibold text-blue-900 mt-12 mb-6">
+        {/* <h2 className="text-2xl font-semibold text-blue-900 mt-12 mb-6">
           Important Dates
-        </h2>
+        </h2> */}
 
-        <div className="bg-blue-50 rounded-lg p-6 shadow-md">
+        {/* <div className="bg-blue-50 rounded-lg p-6 shadow-md">
           <DateItem label="Paper Submission Deadline" date="October 15, 2023" />
           <DateItem
             label="Notification of Acceptance"
@@ -98,7 +100,7 @@ export default function CFPContent() {
             label="Author Registration Deadline"
             date="January 15, 2024"
           />
-        </div>
+        </div> */}
       </div>
     </div>
   );

@@ -1,10 +1,9 @@
-import Content from "@/components/MainPageContent";
+import RegistrationPage from "@/components/RegistrationPageContent";
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
-      <h1>Registration</h1>
-      <Content />
+      <RegistrationPage />
     </div>
   );
 }

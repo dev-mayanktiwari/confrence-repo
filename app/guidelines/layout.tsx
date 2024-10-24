@@ -3,8 +3,9 @@ import LatestUpdates from "@/components/UpdatePanel";
 import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
-  title: "Committe - NCCC 2025",
-  description: "Check the organising committe for NCCC 2024",
+  title: "Paper Submission Guidelines - NCCC 2025",
+  description:
+    "Detailed guidelines for preparing and submitting papers for the 1st National Conference on Computer and Communications (NCCC) 2025. Learn about the manuscript requirements and presentation rules.",
 };
 
 export default function HomeLayout({
