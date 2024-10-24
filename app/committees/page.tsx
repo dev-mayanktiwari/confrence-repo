@@ -3,7 +3,7 @@ import committeeData from "../(constants)/committeData";
 
 export default function CommitteePage() {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen">
       <CommitteePageContent sections={committeeData} />
     </div>
   );
