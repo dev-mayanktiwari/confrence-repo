@@ -171,7 +171,7 @@ const committeeData = [
     ],
   },
   {
-    title: "Publication Chair",
+    title: "Publication Committee",
     members: [
       {
         name: "Prof.(Dr.) Sonal Shukla",
@@ -247,10 +247,10 @@ const committeeData = [
     title: "Publication Chair",
     members: [
       {
-        name: "Dr. Vandana Rani",
+        name: "Dr. Vandana Rani Verma",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/dummy-profile-female.jpeg",
+        imageUrl: "/committe/vandana-rani-verma.jpg",
       },
 
       {
@@ -373,10 +373,16 @@ const committeeData = [
     title: "Website Committee",
     members: [
       {
-        name: "Mayank Tiwari",
-        role: "Joint Secretary Extreme Technical",
+        name: "Dr. Vandana Rani Verma",
+        role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/dummy-profile.jpg",
+        imageUrl: "/committe/vandana-rani-verma.jpg",
+      },
+      {
+        name: "Mayank Tiwari",
+        role: "Student Coordinator",
+        affiliation: "Galgotia College of Engineering and Technology",
+        imageUrl: "/committe/mayank-tiwari.jpg",
       },
     ],
   },
