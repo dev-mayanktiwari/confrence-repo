@@ -26,7 +26,7 @@ export default function RegistrationPage() {
             to two accepted papers, whereas a student author registration covers
             only one paper. In addition to the above, for your paper to be
             included in the NC3 2025 proceedings published in UGC Care I and UGC
-            Care II, it must be presented at the 2024 National Conference on
+            Care II, it must be presented at the 2025 National Conference on
             Computer and Communications (NC3). A paper with no presenter may be
             removed from the conference proceedings.
           </p>
