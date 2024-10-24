@@ -22,9 +22,9 @@ export default function Header() {
           Technology
         </p>
       </div>
-      <div>
-        <Image src="/NCCC-logo.png" alt="NCCC Logo" width={214} height={100} />
-      </div>
+      {/* <div>
+        <Image src="/NCCC-logo0.png" alt="NCCC Logo" width={214} height={100} />
+      </div> */}
     </header>
   );
 }
