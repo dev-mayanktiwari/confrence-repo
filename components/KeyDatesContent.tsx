@@ -4,7 +4,7 @@ export default function KeyDatesContent() {
   const keyDates = [
     {
       title: "Decision Announcement Date",
-      date: "November 07, 2024",
+      date: "November 19, 2024",
       icon: Calendar,
     },
     {

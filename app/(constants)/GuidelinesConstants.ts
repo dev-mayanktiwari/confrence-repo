@@ -8,5 +8,5 @@ export const Guidelines1 = [
   "Do not include headers, footers, or page numbers.",
   "All fonts must be embedded in the PDF file.",
   "Names and affiliations of all authors must be included in the manuscript.",
-  "All papers must be submitted through mail.",
+  "All papers must be submitted through the EasyChair system using the following link: ",
 ];

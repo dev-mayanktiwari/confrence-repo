@@ -163,10 +163,10 @@ const committeeData = [
         imageUrl: "/committe/pallavi-goel.jpg",
       },
       {
-        name: "Prof.(Dr.) Yash Veer Singh",
+        name: "Dr. Imtiaz Ahmed",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/yash-veer-singh.jpg",
+        imageUrl: "/committe/imtiaz-ahmed.jpg",
       },
     ],
   },

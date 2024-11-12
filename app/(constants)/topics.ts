@@ -31,16 +31,15 @@ export const SignalAndImageProcessing = [
 ];
 
 export const RFAndElectricalCommunication = [
-  "Microwave Devices and Meta surfaces",
-  "Antennas and Phased Arrays",
-  "Microwave/mm-Wave/TeraHertz Communication and Imaging",
-  "Optimization and Machine learning aided design of Antennas and Microwave Components",
-  "Radars, Remote sensing and Wireless Power Transfer",
-  "Optical communication",
-  "Optical networks and systems",
-  "Optical network security",
-  "Visible and IR free-space optical communication systems",
-  "Optical interconnect technologies",
+  "Artificial Intelligence and Machine Learning",
+  "Cybersecurity and Data Privacy",
+  "Blockchain and Cryptocurrency",
+  "Internet of Things (IoT)",
+  "Big Data and Analytics",
+  "Cloud Computing",
+  "Software Development and Programming",
+  "Digital Transformation",
+  "Technology and Society",
 ];
 
 export const Communications = [
