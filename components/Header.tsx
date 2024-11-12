@@ -18,7 +18,7 @@ export default function Header() {
           1<sup>st</sup> National Conference on Computer and Communication
         </p>
         <p className="text-sm">
-          28th April - 29th April 2025, Galgotia College of Engineering and
+          28<sup>th</sup> April - 29<sup>th</sup> April 2025, Galgotia College of Engineering and
           Technology
         </p>
       </div>

@@ -12,11 +12,11 @@ export default function Content() {
           The National Conference on Computer and Communications (NC3) is the
           flagship conference of India in the areas of Communications, Signal
           Processing, Machine Learning, and Networks. It will be organized for
-          the first time in 2025, during 28th April - 29th April 2025, at
-          Galgotias College of Engineering and Technology (GCET), Greater Noida.
-          NC3-2025 will be an in-person event, featuring technical paper
-          sessions, poster sessions, tutorials, workshops, and invited talks by
-          renowned researchers from around the globe.
+          the first time in 2025, during 28<sup>th</sup> April - 29<sup>th</sup>{" "}
+          April 2025, at Galgotias College of Engineering and Technology (GCET),
+          Greater Noida. NC3-2025 will be an in-person event, featuring
+          technical paper sessions, poster sessions, tutorials, workshops, and
+          invited talks by renowned researchers from around the globe.
         </p>
       </section>
       <section className="mb-8 text-justify">
