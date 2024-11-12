@@ -5,7 +5,7 @@ import latestUpdates from "../(constants)/latestUpdatesProps";
 export const metadata: Metadata = {
   title: "Paper Submission Guidelines - NCCC 2025",
   description:
-    "Detailed guidelines for preparing and submitting papers for the 1st National Conference on Computer and Communications (NCCC) 2025. Learn about the manuscript requirements and presentation rules.",
+    "Detailed guidelines for preparing and submitting papers for the 1<sup>st</sup> National Conference on Computer and Communications (NCCC) 2025. Learn about the manuscript requirements and presentation rules.",
 };
 
 export default function HomeLayout({

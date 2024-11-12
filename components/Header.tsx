@@ -15,7 +15,7 @@ export default function Header() {
       <div className="text-center flex-grow">
         <h1 className="text-4xl font-bold text-maroon mb-2">NCCC 2025</h1>
         <p className="text-xl text-blue-600">
-          1st National Conference on Computer and Communication
+          1<sup>st</sup> National Conference on Computer and Communication
         </p>
         <p className="text-sm">
           28th April - 29th April 2025, Galgotia College of Engineering and

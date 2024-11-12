@@ -30,11 +30,11 @@ export default function Content() {
       </section>
       <section className="mb-8 text-justify">
         <p>
-          The 1st NC3 will be hosted at GCET, located in Greater Noida. This
-          city is a growing hub of education and industry, situated near the
-          national capital region of India. GCET is known for its vibrant
-          academic culture and cutting-edge research. We welcome you to NC3-2025
-          to explore the latest trends in technology and connect with
+          The 1<sup>st</sup> NC3 will be hosted at GCET, located in Greater
+          Noida. This city is a growing hub of education and industry, situated
+          near the national capital region of India. GCET is known for its
+          vibrant academic culture and cutting-edge research. We welcome you to
+          NC3-2025 to explore the latest trends in technology and connect with
           professionals from across the country.
         </p>
       </section>
