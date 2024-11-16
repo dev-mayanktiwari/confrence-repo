@@ -31,6 +31,19 @@ export default function GuidelinesPage() {
                 </li>
               ))}
             </ul>
+            <ul>
+              All papers must be submitted through the EasyChair system using
+              the following{" "}
+              <a
+                href="https://easychair.org/cfp/1stN3C"
+                target="_blank"
+                className="font-bold underline text-blue-500"
+              >
+                {" "}
+                link
+              </a>
+              .
+            </ul>
           </p>
         </section>
         <section>

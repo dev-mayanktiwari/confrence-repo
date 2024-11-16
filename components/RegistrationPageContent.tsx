@@ -73,10 +73,14 @@ export default function RegistrationPage() {
             Registration Link
           </h2>
           <p>
-            <BlinkingText
-              text="Available Soon"
-              className="text-lg text-red-900 underline font-bold"
-            />
+            <a
+              href="https://easychair.org/cfp/1stN3C"
+              target="_blank"
+              className="font-bold underline text-blue-500 text-xl"
+            >
+              {" "}
+              Click here{" "}
+            </a>
           </p>
         </section>
         {/* <section className="space-y-4">

@@ -1,3 +1,5 @@
-const latestUpdates = [{ date: "2024-10-24", content: "Update Soon" }];
+const latestUpdates = [
+  { date: "2024-11-16", content: "Registration link available", link: "/registration" },
+];
 
 export default latestUpdates;
