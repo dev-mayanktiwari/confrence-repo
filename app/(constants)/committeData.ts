@@ -361,12 +361,6 @@ const committeeData = [
         affiliation: "Galgotia College of Engineering and Technology",
         imageUrl: "/committe/youddha-beer-singh.jpg",
       },
-      {
-        name: "Dr. Govind Kumar Rahul",
-        role: "",
-        affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/govind-kumar-rahul.jpg",
-      },
     ],
   },
   {
