@@ -74,7 +74,7 @@ export default function RegistrationPage() {
           </h2>
           <p>
             <a
-              href="https://easychair.org/cfp/1stN3C"
+              href="https://easychair.org/conferences/?conf=nccc2025"
               target="_blank"
               className="font-bold underline text-blue-500 text-xl"
             >
