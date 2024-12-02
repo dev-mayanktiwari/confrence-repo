@@ -17,9 +17,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "NCCC 2024 - 30th National Conference on Communications",
+  title: "NCCC 2024 - 30th International Conference on Communications",
   description:
-    "30th National Conference on Communications, jointly organized by IIT Madras & IIT Tirupati",
+    "30th International Conference on Communications, jointly organized by IIT Madras & IIT Tirupati",
 };
 
 export default function RootLayout({

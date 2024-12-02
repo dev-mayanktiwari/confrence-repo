@@ -5,7 +5,7 @@ import latestUpdates from "../(constants)/latestUpdatesProps";
 export const metadata: Metadata = {
   title: "Key Dates - NCCC 2025",
   description:
-    "Stay informed about important dates for the National Conference on Computer and Communications (NCCC) 2025, including submission deadlines, registration, and event schedule.",
+    "Stay informed about important dates for the International Conference on Computer and Communications (NCCC) 2025, including submission deadlines, registration, and event schedule.",
 };
 
 export default function HomeLayout({

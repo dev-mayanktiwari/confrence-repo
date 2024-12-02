@@ -3,20 +3,21 @@ export default function Content() {
     <div className="container mx-auto px-4 py-8">
       <section className="mb-8">
         <h2 className="text-2xl md:text-3xl font-bold mb-4 text-blue-900">
-          National Conference on Computer and Communications (NC3)
+          International Conference on Computer and Communications (NC3)
         </h2>
         <hr className="border-t-2 border-blue-900 mb-6" />
       </section>
       <section className="mb-8 text-justify">
         <p>
-          The National Conference on Computer and Communications (NC3) is the
-          flagship conference of India in the areas of Communications, Signal
-          Processing, Machine Learning, and Networks. It will be organized for
-          the first time in 2025, during 28<sup>th</sup> April - 29<sup>th</sup>{" "}
-          April 2025, at Galgotias College of Engineering and Technology (GCET),
-          Greater Noida. NC3-2025 will be an in-person event, featuring
-          technical paper sessions, poster sessions, tutorials, workshops, and
-          invited talks by renowned researchers from around the globe.
+          The International Conference on Computer and Communications (NC3) is
+          the flagship conference of India in the areas of Communications,
+          Signal Processing, Machine Learning, and Networks. It will be
+          organized for the first time in 2025, during 28<sup>th</sup> April -
+          29<sup>th</sup> April 2025, at Galgotias College of Engineering and
+          Technology (GCET), Greater Noida. NC3-2025 will be an in-person event,
+          featuring technical paper sessions, poster sessions, tutorials,
+          workshops, and invited talks by renowned researchers from around the
+          globe.
         </p>
       </section>
       <section className="mb-8 text-justify">

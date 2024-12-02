@@ -5,8 +5,8 @@ export default function Footer() {
         <div className="text-sm mb-2 md:mb-0 text-center md:text-left">
           © 2024 All rights reserved.
           <span className="text-yellow-400">
-            1<sup>st</sup> National Conference on Computer and Communications
-            (NC3 2025)
+            1<sup>st</sup> International Conference on Computer and
+            Communications (NC3 2025)
           </span>
         </div>
         <div className="text-sm text-center md:text-right">

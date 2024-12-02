@@ -15,11 +15,11 @@ export default function Header() {
       <div className="text-center flex-grow">
         <h1 className="text-4xl font-bold text-maroon mb-2">NCCC 2025</h1>
         <p className="text-xl text-blue-600">
-          1<sup>st</sup> National Conference on Computer and Communication
+          1<sup>st</sup> International Conference on Computer and Communication
         </p>
         <p className="text-sm">
-          28<sup>th</sup> April - 29<sup>th</sup> April 2025, Galgotia College of Engineering and
-          Technology
+          28<sup>th</sup> April - 29<sup>th</sup> April 2025, Galgotia College
+          of Engineering and Technology
         </p>
       </div>
       {/* <div>
@@ -38,7 +38,7 @@ export default function Header() {
 //         <div className="relative w-full h-[100px] sm:h-[150px] md:h-[200px] lg:h-[250px] xl:h-[300px]">
 //           <Image
 //             src="/nccc.svg"
-//             alt="NCCC 2024 - 30th National Conference on Communications"
+//             alt="NCCC 2024 - 30th International Conference on Communications"
 //             fill
 //             priority
 //             sizes="(max-width: 640px) 100vw, (max-width: 768px) 80vw, (max-width: 1024px) 70vw, 60vw"

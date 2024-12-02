@@ -6,12 +6,12 @@ import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
   title:
-    "1st National Conference on Computer and Communications - NCCC 2025",
+    "1st International Conference on Computer and Communications - NCCC 2025",
   description:
-    "Join the 1st National Conference on Computer & Communications (NCCC 2025) for the latest updates on computer science, communications technology, and cutting-edge research. Call for Papers now open.",
+    "Join the 1st International Conference on Computer & Communications (NCCC 2025) for the latest updates on computer science, communications technology, and cutting-edge research. Call for Papers now open.",
   keywords: [
     "NCCC 2025",
-    "National Conference on Computer and Communications",
+    "International Conference on Computer and Communications",
     "Call for Papers",
     "Computer Science",
     "Communications Technology",
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title:
-      "1st National Conference on Computer and Communications - NCCC 2025",
+      "1st International Conference on Computer and Communications - NCCC 2025",
     description:
       "Discover groundbreaking research in computer and communications at NCCC 2025. Submit your paper now.",
     // url: "https://your-website.com",
@@ -48,7 +48,7 @@ export default function HomeLayout({
         messages={[
           { text: "Welcome to NCCC 2025" },
           {
-            text: "1st National Conference on Computer & Communications",
+            text: "1st International Conference on Computer & Communications",
           },
           { text: "Call for Papers", link: "/cfp" },
         ]}

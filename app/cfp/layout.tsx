@@ -5,7 +5,7 @@ import latestUpdates from "../(constants)/latestUpdatesProps";
 export const metadata: Metadata = {
   title: "Call for Papers - NCCC 2025",
   description:
-    "Submit your papers to the 1<sup>st</sup> National Conference on Computer and Communications (NCCC 2025) and explore a wide range of research areas including communications, network theory, and signal processing. Join us at Galgotia College of Engineering and Technology in April 2025.",
+    "Submit your papers to the 1<sup>st</sup> International Conference on Computer and Communications (NCCC 2025) and explore a wide range of research areas including communications, network theory, and signal processing. Join us at Galgotia College of Engineering and Technology in April 2025.",
   keywords: [
     "NCCC 2025",
     "Call for Papers",

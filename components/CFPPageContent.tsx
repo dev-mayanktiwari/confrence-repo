@@ -18,8 +18,8 @@ export default function CFPContent() {
 
       <div className="space-y-8 text-gray-700 leading-relaxed">
         <p className="text-lg">
-          The 1<sup>st</sup> National Conference on Communications (NC3 2025)
-          will be held at Galgotia College of Engineering and Technology,
+          The 1<sup>st</sup> International Conference on Communications (NC3
+          2025) will be held at Galgotia College of Engineering and Technology,
           Greater Noida during April 28 - April 29, 2025.
           {/* NC3 is an annual conference organized
           under the joint sponsorship of the IEEE Communications Society India

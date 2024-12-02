@@ -5,7 +5,7 @@ import latestUpdates from "../(constants)/latestUpdatesProps";
 export const metadata: Metadata = {
   title: "Registration - NCCC 2025",
   description:
-    "Register for the National Conference on Computer and Communications (NCCC) 2025. Find registration details, fees, and important deadlines.",
+    "Register for the International Conference on Computer and Communications (NCCC) 2025. Find registration details, fees, and important deadlines.",
 };
 
 export default function HomeLayout({
