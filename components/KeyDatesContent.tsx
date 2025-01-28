@@ -3,18 +3,18 @@ import { Calendar, FileText, UserCheck } from "lucide-react";
 export default function KeyDatesContent() {
   const keyDates = [
     {
-      title: "Decision Announcement Date",
-      date: "November 19, 2024",
+      title: "Paper Submission Starts",
+      date: "February 28, 2025",
       icon: Calendar,
     },
     {
-      title: "Paper Submission Deadline",
-      date: "January 20, 2025",
+      title: "Notification of Acceptance",
+      date: "March 30, 2025",
       icon: FileText,
     },
     {
-      title: "Camera Ready Submission",
-      date: "March 10, 2025",
+      title: "Final Paper Submission",
+      date: "April 10, 2025",
       icon: UserCheck,
     },
   ];
