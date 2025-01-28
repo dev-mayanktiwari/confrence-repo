@@ -25,9 +25,9 @@ export default function RegistrationPage() {
             student author registration. Each full registration can support up
             to two accepted papers, whereas a student author registration covers
             only one paper. In addition to the above, for your paper to be
-            included in the NC3 2025 proceedings published in UGC Care I and UGC
+            included in the IC3 2025 proceedings published in UGC Care I and UGC
             Care II, it must be presented at the 2025 International Conference
-            on Computer and Communications (NC3). A paper with no presenter may
+            on Computer and Communications (IC3). A paper with no presenter may
             be removed from the conference proceedings.
           </p>
         </section>
@@ -47,21 +47,39 @@ export default function RegistrationPage() {
               <tbody>
                 <tr>
                   <td className="py-2 px-4 border-b border-r text-center">
-                    Academicians/ Scientists/ Researchers/ Students
+                    Student / Research Scholar
                   </td>
-                  <td className="py-2 px-4 border-b text-center">₹ 2,000</td>
+                  <td className="py-2 px-4 border-b text-center">INR 2500</td>
                 </tr>
                 <tr>
                   <td className="py-2 px-4 border-b border-r text-center">
-                    Ph.D. Scholars
+                    Academics
                   </td>
-                  <td className="py-2 px-4 border-b text-center">₹ 3,000</td>
+                  <td className="py-2 px-4 border-b text-center">INR 3,000</td>
                 </tr>
                 <tr>
                   <td className="py-2 px-4 border-b border -r text-center">
-                    Online Participants
+                    Industry
                   </td>
-                  <td className="py-2 px-4 border-b text-center">₹ 2,000</td>
+                  <td className="py-2 px-4 border-b text-center">INR 3,500</td>
+                </tr>
+                <tr>
+                  <td className="py-2 px-4 border-b border -r text-center">
+                    Foreign Student / Scholar
+                  </td>
+                  <td className="py-2 px-4 border-b text-center">USD 100</td>
+                </tr>
+                <tr>
+                  <td className="py-2 px-4 border-b border -r text-center">
+                    Foreign Academics
+                  </td>
+                  <td className="py-2 px-4 border-b text-center">USD 120</td>
+                </tr>
+                <tr>
+                  <td className="py-2 px-4 border-b border -r text-center">
+                    Foreign Industry
+                  </td>
+                  <td className="py-2 px-4 border-b text-center">USD 300</td>
                 </tr>
               </tbody>
             </table>

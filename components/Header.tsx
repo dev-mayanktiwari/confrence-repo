@@ -13,9 +13,9 @@ export default function Header() {
         />
       </div>
       <div className="text-center flex-grow">
-        <h1 className="text-4xl font-bold text-maroon mb-2">NCCC 2025</h1>
+        <h1 className="text-4xl font-bold text-maroon mb-2">ICCC 2025</h1>
         <p className="text-xl text-blue-600">
-          1<sup>st</sup> International Conference on Computer and Communication
+          International Conference on Computer and Communication
         </p>
         <p className="text-sm">
           28<sup>th</sup> April - 29<sup>th</sup> April 2025, Galgotia College

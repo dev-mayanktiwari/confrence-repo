@@ -6,7 +6,7 @@ export default function Footer() {
           © 2024 All rights reserved.
           <span className="text-yellow-400">
             1<sup>st</sup> International Conference on Computer and
-            Communications (NC3 2025)
+            Communications (IC3 2025)
           </span>
         </div>
         <div className="text-sm text-center md:text-right">

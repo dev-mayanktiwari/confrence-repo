@@ -1,6 +1,6 @@
 const committeeData = [
   {
-    title: "Organising Committee (Chief Patrons)",
+    title: "Chief Patrons",
     members: [
       {
         name: "Shri Sunil Galgotia",
@@ -73,12 +73,6 @@ const committeeData = [
     title: "Conference Co-Convener",
     members: [
       {
-        name: "Prof.(Dr.) Yash Veer Singh",
-        role: "Deputy HOD CSE",
-        affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/yash-veer-singh.jpg",
-      },
-      {
         name: "Dr. M. Ganesh",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
@@ -90,17 +84,10 @@ const committeeData = [
     title: "Conference Organising Chair",
     members: [
       {
-        name: "Prof.(Dr.) Pushpa Chaudhary",
-        role: "HOD CSE & Allied Branches",
+        name: "Prof.(Dr.) Yashveer Singh",
+        role: "Deputy HOD CSE & Allied Branches",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/pushpa-chaudhary.jpeg",
-      },
-
-      {
-        name: "Prof. (Dr.) M. Ganesh",
-        role: "",
-        affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/m-ganesh.jpg",
+        imageUrl: "/committe/yash-veer-singh.jpg",
       },
       {
         name: "Dr. Vandana Rani Verma",
@@ -113,6 +100,18 @@ const committeeData = [
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
         imageUrl: "/committe/krishna-kumar-saraswat.jpg",
+      },
+      {
+        name: "Dr. Imtiaz Ahmed",
+        role: "",
+        affiliation: "Galgotia College of Engineering and Technology",
+        imageUrl: "/committe/imtiaz-ahmed.jpg",
+      },
+      {
+        name: "Mr. K.P. Singh",
+        role: "",
+        affiliation: "Galgotia College of Engineering and Technology",
+        imageUrl: "/committe/dummy-profile.jpg",
       },
     ],
   },
@@ -349,12 +348,6 @@ const committeeData = [
         imageUrl: "/committe/aditya-dev-mishra.jpg",
       },
 
-      {
-        name: "Dr. K.P. Singh",
-        role: "",
-        affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/dummy-profile.jpg",
-      },
       {
         name: "Dr. Youddha Beer Singh",
         role: "",
