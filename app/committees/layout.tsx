@@ -3,9 +3,9 @@ import LatestUpdates from "@/components/UpdatePanel";
 import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
-  title: "Organizing Committee - NCCC 2025",
+  title: "Organizing Committee - ICCC 2025",
   description:
-    "Meet the distinguished members of the organizing committee for the 1<sup>st</sup> International Conference on Computer and Communications (NCCC) 2025. Learn about their roles, affiliations, and contributions to this prestigious event.",
+    "Meet the distinguished members of the organizing committee for the 1<sup>st</sup> International Conference on Computer and Communications (ICCC) 2025. Learn about their roles, affiliations, and contributions to this prestigious event.",
 };
 
 export default function HomeLayout({

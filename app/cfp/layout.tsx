@@ -3,11 +3,11 @@ import LatestUpdates from "@/components/UpdatePanel";
 import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
-  title: "Call for Papers - NCCC 2025",
+  title: "Call for Papers - ICCC 2025",
   description:
-    "Submit your papers to the 1<sup>st</sup> International Conference on Computer and Communications (NCCC 2025) and explore a wide range of research areas including communications, network theory, and signal processing. Join us at Galgotia College of Engineering and Technology in April 2025.",
+    "Submit your papers to the 1<sup>st</sup> International Conference on Computer and Communications (ICCC 2025) and explore a wide range of research areas including communications, network theory, and signal processing. Join us at Galgotia College of Engineering and Technology in April 2025.",
   keywords: [
-    "NCCC 2025",
+    "ICCC 2025",
     "Call for Papers",
     "Communications",
     "Signal Processing",
@@ -17,9 +17,9 @@ export const metadata: Metadata = {
     "Computer and Communications Conference",
   ],
   openGraph: {
-    title: "Call for Papers - NCCC 2025",
+    title: "Call for Papers - ICCC 2025",
     description:
-      "Join NCCC 2025 at Galgotia College and submit your research in communications, network theory, and more. Explore cutting-edge research opportunities.",
+      "Join ICCC 2025 at Galgotia College and submit your research in communications, network theory, and more. Explore cutting-edge research opportunities.",
     // url: "https://your-website.com/cfp",
     type: "article",
     // images: [
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     //     url: "https://your-website.com/og-cfp-image.jpg",
     //     width: 1200,
     //     height: 630,
-    //     alt: "NCCC 2025 Call for Papers",
+    //     alt: "ICCC 2025 Call for Papers",
     //   },
     // ],
   },

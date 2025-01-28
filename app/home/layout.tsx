@@ -5,12 +5,11 @@ import LatestUpdates from "@/components/UpdatePanel";
 import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
-  title:
-    "International Conference on Computer and Communications - NCCC 2025",
+  title: "International Conference on Computer and Communications - ICCC 2025",
   description:
-    "Join the International Conference on Computer & Communications (NCCC 2025) for the latest updates on computer science, communications technology, and cutting-edge research. Call for Papers now open.",
+    "Join the International Conference on Computer & Communications (ICCC 2025) for the latest updates on computer science, communications technology, and cutting-edge research. Call for Papers now open.",
   keywords: [
-    "NCCC 2025",
+    "ICCC 2025",
     "International Conference on Computer and Communications",
     "Call for Papers",
     "Computer Science",
@@ -20,9 +19,9 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title:
-      "International Conference on Computer and Communications - NCCC 2025",
+      "International Conference on Computer and Communications - ICCC 2025",
     description:
-      "Discover groundbreaking research in computer and communications at NCCC 2025. Submit your paper now.",
+      "Discover groundbreaking research in computer and communications at ICCC 2025. Submit your paper now.",
     // url: "https://your-website.com",
     // type: "website",
     // images: [
@@ -30,7 +29,7 @@ export const metadata: Metadata = {
     //     url: "https://your-website.com/og-image.jpg",
     //     width: 1200,
     //     height: 630,
-    //     alt: "NCCC 2025 Conference Banner",
+    //     alt: "ICCC 2025 Conference Banner",
     //   },
     // ],
   },
@@ -46,7 +45,7 @@ export default function HomeLayout({
       <Slideshow />
       <MovingLine
         messages={[
-          { text: "Welcome to NCCC 2025" },
+          { text: "Welcome to ICCC 2025" },
           {
             text: "International Conference on Computer & Communications",
           },

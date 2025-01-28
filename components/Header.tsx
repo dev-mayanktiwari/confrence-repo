@@ -23,7 +23,7 @@ export default function Header() {
         </p>
       </div>
       {/* <div>
-        <Image src="/NCCC-logo0.png" alt="NCCC Logo" width={214} height={100} />
+        <Image src="/ICCC-logo0.png" alt="ICCC Logo" width={214} height={100} />
       </div> */}
     </header>
   );
@@ -37,8 +37,8 @@ export default function Header() {
 //       <div className="container mx-auto px-4 py-4 flex justify-center items-center">
 //         <div className="relative w-full h-[100px] sm:h-[150px] md:h-[200px] lg:h-[250px] xl:h-[300px]">
 //           <Image
-//             src="/nccc.svg"
-//             alt="NCCC 2024 - 30th International Conference on Communications"
+//             src="/ICCC.svg"
+//             alt="ICCC 2024 - 30th International Conference on Communications"
 //             fill
 //             priority
 //             sizes="(max-width: 640px) 100vw, (max-width: 768px) 80vw, (max-width: 1024px) 70vw, 60vw"

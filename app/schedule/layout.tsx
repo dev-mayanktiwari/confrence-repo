@@ -3,9 +3,9 @@ import LatestUpdates from "@/components/UpdatePanel";
 import latestUpdates from "../(constants)/latestUpdatesProps";
 
 export const metadata: Metadata = {
-  title: "Schedule - NCCC 2025",
+  title: "Schedule - ICCC 2025",
   description:
-    "View the complete schedule for NCCC 2025, including sessions, speakers, and timings. Plan your attendance at the conference effectively.",
+    "View the complete schedule for ICCC 2025, including sessions, speakers, and timings. Plan your attendance at the conference effectively.",
 };
 
 export default function HomeLayout({
