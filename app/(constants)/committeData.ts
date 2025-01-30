@@ -111,7 +111,7 @@ const committeeData = [
         name: "Mr. K.P. Singh",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/dummy-profile.jpg",
+        imageUrl: "/committe/kp-singh.jpeg",
       },
     ],
   },
@@ -166,6 +166,18 @@ const committeeData = [
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
         imageUrl: "/committe/imtiaz-ahmed.jpg",
+      },
+      {
+        name: "Mr. Vikas Jalodia",
+        role: "",
+        affiliation: "Galgotia College of Engineering and Technology",
+        imageUrl: "/committe/vikas-jalodia.jpeg",
+      },
+      {
+        name: "Mr. Arshad Khan",
+        role: "",
+        affiliation: "Galgotia College of Engineering and Technology",
+        imageUrl: "/committe/arshad-khan.jpeg",
       },
     ],
   },
@@ -246,10 +258,10 @@ const committeeData = [
     title: "Publication Chair",
     members: [
       {
-        name: "Dr. Vandana Rani Verma",
+        name: "Ms. Swati Rehal",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/vandana-rani-verma.jpg",
+        imageUrl: "/committe/swati-rehal.jpeg",
       },
 
       {
