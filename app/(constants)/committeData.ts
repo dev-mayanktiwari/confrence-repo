@@ -85,7 +85,7 @@ const committeeData = [
     members: [
       {
         name: "Prof.(Dr.) Yashveer Singh",
-        role: "Deputy HOD CSE & Allied Branches",
+        role: "",
         affiliation: "Galgotia College of Engineering and Technology",
         imageUrl: "/committe/yash-veer-singh.jpg",
       },
