@@ -12,7 +12,7 @@ export default function Content() {
           The International Conference on Computer and Communications (IC3) is
           the flagship conference of India in the areas of Communications,
           Signal Processing, Machine Learning, and Networks. It will be
-          organized f in 2025, during 28<sup>th</sup> April -
+          organized in 2025, during 28<sup>th</sup> April -
           29<sup>th</sup> April 2025, at Galgotias College of Engineering and
           Technology (GCET), Greater Noida. IC3-2025 will be an hybrid event,
           featuring technical paper sessions, poster sessions, tutorials,
