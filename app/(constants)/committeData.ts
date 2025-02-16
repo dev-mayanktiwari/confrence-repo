@@ -162,22 +162,10 @@ const committeeData = [
         imageUrl: "/committe/pallavi-goel.jpg",
       },
       {
-        name: "Dr. Imtiaz Ahmed",
-        role: "",
-        affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/imtiaz-ahmed.jpg",
-      },
-      {
         name: "Mr. Vikas Jalodia",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
         imageUrl: "/committe/vikas-jalodia.jpeg",
-      },
-      {
-        name: "Mr. Arshad Khan",
-        role: "",
-        affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/arshad-khan.jpeg",
       },
     ],
   },
@@ -220,12 +208,6 @@ const committeeData = [
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
         imageUrl: "/committe/shikha-singh.jpg",
-      },
-      {
-        name: "Prof.(Dr.) Arti Gupta",
-        role: "",
-        affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/arti-gupta.jpg",
       },
 
       {
@@ -369,13 +351,14 @@ const committeeData = [
     ],
   },
   {
+    
     title: "Website Committee",
     members: [
       {
-        name: "Dr. Vandana Rani Verma",
+        name: "Mr. Aniruddh Kumar",
         role: "",
         affiliation: "Galgotia College of Engineering and Technology",
-        imageUrl: "/committe/vandana-rani-verma.jpg",
+        imageUrl: "/committe/aniruddh-kumar.jpg",
       },
       {
         name: "Mayank Tiwari",

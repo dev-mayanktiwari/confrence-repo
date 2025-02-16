@@ -5,7 +5,7 @@ import latestUpdates from "../(constants)/latestUpdatesProps";
 export const metadata: Metadata = {
   title: "Paper Submission Guidelines - ICCC 2025",
   description:
-    "Detailed guidelines for preparing and submitting papers for the 1<sup>st</sup> International Conference on Computer and Communications (ICCC) 2025. Learn about the manuscript requirements and presentation rules.",
+    "Detailed guidelines for preparing and submitting papers for the International Conference on Computer and Communications (ICCC) 2025. Learn about the manuscript requirements and presentation rules.",
 };
 
 export default function HomeLayout({

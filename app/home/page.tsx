@@ -1,4 +1,3 @@
-import Slideshow from "@/components/Slideshow";
 import Content from "@/components/MainPageContent";
 
 export default function Home() {

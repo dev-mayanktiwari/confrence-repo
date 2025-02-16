@@ -18,7 +18,7 @@ export default function CFPContent() {
 
       <div className="space-y-8 text-gray-700 leading-relaxed">
         <p className="text-lg">
-          The 1<sup>st</sup> International Conference on Communications (IC3
+          The International Conference on Communications (IC3
           2025) will be held at Galgotia College of Engineering and Technology,
           Greater Noida during April 28 - April 29, 2025.
           {/* IC3 is an annual conference organized

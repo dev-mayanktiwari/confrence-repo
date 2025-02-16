@@ -17,9 +17,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "ICCC 2024 - 30th International Conference on Communications",
+  title: "ICCC 2025 -  International Conference on Communications",
   description:
-    "30th International Conference on Communications, jointly organized by IIT Madras & IIT Tirupati",
+    "International Conference on Communications, organized by Galgotias College of Engineering and Technology.",
 };
 
 export default function RootLayout({

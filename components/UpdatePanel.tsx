@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 interface Update {
-  date: string;
+  date?: string;
   content: string;
   link?: string;
 }
@@ -18,7 +18,7 @@ export default function LatestUpdates({ updates }: LatestUpdatesProps) {
           key={index}
           className="border-b border-gray-200 pb-2 last:border-b-0"
         >
-          <p className="text-sm text-gray-600 mb-1">{update.date}</p>
+          {/* <p className="text-sm text-gray-600 mb-1">{update.date || ""}</p> */}
           <p className="text-gray-800">
             {" "}
             <Link
