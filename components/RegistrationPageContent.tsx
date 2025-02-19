@@ -90,16 +90,7 @@ export default function RegistrationPage() {
           <h2 className="text-2xl font-bold mb-4 text-blue-800">
             Registration Link
           </h2>
-          <p>
-            <a
-              href="https://easychair.org/conferences/?conf=nccc2025"
-              target="_blank"
-              className="font-bold underline text-blue-500 text-xl"
-            >
-              {" "}
-              Click here{" "}
-            </a>
-          </p>
+          <p>available soon</p>
         </section>
         {/* <section className="space-y-4">
           <h2 className="text-2xl font-bold mb-4 text-blue-800">
