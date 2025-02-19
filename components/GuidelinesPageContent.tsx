@@ -33,8 +33,7 @@ export default function GuidelinesPage() {
             </ul>
             <ul className="list-disc">
               <li>
-                All papers must be submitted through the EasyChair system using
-                the following link .
+                All papers must be submitted through the CMT Portal.
               </li>
             </ul>
           </p>
