@@ -34,16 +34,7 @@ export default function GuidelinesPage() {
             <ul className="list-disc">
               <li>
                 All papers must be submitted through the EasyChair system using
-                the following{" "}
-                <a
-                  href="https://easychair.org/conferences/?conf=nccc2025"
-                  target="_blank"
-                  className="font-bold underline text-blue-500"
-                >
-                  {" "}
-                  link
-                </a>
-                .
+                the following link .
               </li>
             </ul>
           </p>
